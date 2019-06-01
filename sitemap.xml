@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/crawllink/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/pagerank/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/Evaluasi2/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Instal/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/crawling/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/preprocessing/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/seleksiFitur/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/clustering/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Evaluasi/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
